@@ -44,6 +44,3 @@ MENTOR APP
     * concentration
     * area of expertise
     * zipcode
-
-
-gem 'aws-sdk', '~> 2.3' deleted incompatible with paperclip
